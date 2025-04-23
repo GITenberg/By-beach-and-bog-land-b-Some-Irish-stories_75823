@@ -1,0 +1,45 @@
+_repo: By-beach-and-bog-land-b-Some-Irish-stories_75823
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Henry, Paul
+    birthdate: 1876
+    deathdate: 1958
+    gutenberg_agent_id: '58165'
+    url: http://www.gutenberg.org/2009/agents/58165
+    wikipedia: https://en.wikipedia.org/wiki/Paul_Henry_(painter)
+creator:
+  author:
+    agent_name: Barlow, Jane
+    aliases:
+    - Barlow, J. (Jane)
+    - Ryark, Felix
+    birthdate: 1856
+    deathdate: 1917
+    gutenberg_agent_id: '6301'
+    url: http://www.gutenberg.org/2009/agents/6301
+    wikipedia: https://en.wikipedia.org/wiki/Jane_Barlow
+description: ''
+gutenberg_issued: '2025-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75823'
+language: en
+pgterms:marc904: https://archive.org/details/cu31924013210947/page/n9/mode/2up
+pgterms:marc905: 20230923063549barlow
+pgterms:marc906: '1905'
+pgterms:marc907: GB
+production_note: the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bT. Fisher Unwin, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Fiction'
+- !lcsh 'Peasants -- Ireland -- Fiction'
+- !lcsh 'Short stories, English -- Irish authors'
+- !lcc 'PR'
+- GITenberg
+title: 'By beach and bog-land : $b Some Irish stories'
+url: http://www.gutenberg.org/ebooks/75823
