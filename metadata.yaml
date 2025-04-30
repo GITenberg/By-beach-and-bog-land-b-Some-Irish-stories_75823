@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '58165'
     url: http://www.gutenberg.org/2009/agents/58165
     wikipedia: https://en.wikipedia.org/wiki/Paul_Henry_(painter)
+covers:
+- cover_type: archival
+  image_path: 75823-h/images/cover.jpg
 creator:
   author:
     agent_name: Barlow, Jane
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6301
     wikipedia: https://en.wikipedia.org/wiki/Jane_Barlow
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75823#By-beach-and-bog-land-b-Some-Irish-stories
 gutenberg_issued: '2025-04-08'
 gutenberg_type: Text
 identifiers:
